@@ -1,0 +1,60 @@
+[
+  {
+   "input"  : "input",
+   "type"   : "text",
+   "name"   : "name",
+   "id"     : "name",
+   "class"  : "col-md-11"
+  },
+  {
+    "input"  : "textarea",
+    "name"   : "textAreaName",
+    "id"     : "textAreaId",
+    "class"  : "col-md-11"
+  },
+  {
+    "input"  : "input",
+    "type"   : "checkbox",
+    "name"   : "checkTest",
+    "id"     : "checkTest",
+    "class"  : "col-md-2"
+  },
+
+  {
+    "input"  : "select",
+    "name"   : "dropdown",
+    "options"  : {
+      "1" : "test1",
+      "2" : "test2",
+      "3" : "test3"
+    },
+    "id"     : "dropdown",
+    "class"  : "col-md-9"
+  },
+  {
+    "input"  : "input",
+    "type"   : "submit",
+    "name"   : "formSubmit",
+    "value"  : "Submit button",
+    "id"     : "formSubmit",
+    "class"  : "col-md-11"
+  },
+  {
+    "input"  : "button",
+    "type"   : "button",
+    "name"   : "formButtom",
+    "id"     : "formButtom",
+    "htmlText" : "Button",
+    "onclick" : "alert('Welcome!')",
+    "class"  : "col-md-11"
+  },
+  {
+    "input"  : "input",
+    "type"   : "button",
+    "name"   : "formButtom",
+    "id"     : "formButtom",
+    "value"  : "Input button",
+    "onclick" : "alert('Welcome!')",
+    "class"  : "col-md-11"
+  }
+]
